@@ -1,0 +1,4 @@
+aiogram==3.22.0
+redis[hiredis]==5.0.8
+structlog==24.4.0
+python-dotenv==1.0.1
